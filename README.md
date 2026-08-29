@@ -114,3 +114,8 @@ Apache 2.0, see [LICENSE](LICENSE).
 [github-actions-generator-ci-url]: https://github.com/jhipster/generator-jhipster-quarkus/actions/workflows/generator.yml
 [github-actions-smoke-tests-image]: https://github.com/jhipster/generator-jhipster-quarkus/actions/workflows/smoke-test-imperative.yml/badge.svg
 [github-actions-smoke-tests-url]: https://github.com/jhipster/generator-jhipster-quarkus/actions/workflows/smoke-test-imperative.yml
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
